@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "title": "Adventure",
+    "text": "Discovering hidden treasures",
+    "date": "2023-04-15",
+    "image": ""
+  },
+  {
+    "id": 2,
+    "title": "Love",
+    "text": "Heartfelt romantic gestures",
+    "date": "2023-04-16",
+    "image": ""
+  },
+  {
+    "id": 3,
+    "title": "Mystery",
+    "text": "Solving puzzling mysteries",
+    "date": "2023-04-17",
+    "image": ""
+  },
+  {
+    "id": 4,
+    "title": "Comedy",
+    "text": "Laughing until it hurts",
+    "date": "2023-04-18",
+    "image": ""
+  },
+  {
+    "id": 5,
+    "title": "Drama",
+    "text": "Feeling all the emotions",
+    "date": "2023-04-19",
+    "image": ""
+  },
+  {
+    "id": 6,
+    "title": "Action",
+    "text": "Fighting for justice",
+    "date": "2023-04-20",
+    "image": ""
+  },
+  {
+    "id": 7,
+    "title": "Horror",
+    "text": "Screaming in terror",
+    "date": "2023-04-21",
+    "image": ""
+  },
+  {
+    "id": 8,
+    "title": "Sci-Fi",
+    "text": "Exploring new worlds",
+    "date": "2023-04-22",
+    "image": ""
+  },
+  {
+    "id": 9,
+    "title": "Thriller",
+    "text": "Heart-pumping suspense",
+    "date": "2023-04-23",
+    "image": ""
+  },
+  {
+    "id": 10,
+    "title": "Fantasy",
+    "text": "Magical adventures",
+    "date": "2023-04-24",
+    "image": ""
+  },
+  {
+    "id": 11,
+    "title": "Documentary",
+    "text": "Learning about real-life stories",
+    "date": "2023-04-25",
+    "image": ""
+  },
+  {
+    "id": 12,
+    "title": "Animation",
+    "text": "Entertaining cartoons",
+    "date": "2023-04-26",
+    "image": ""
+  },
+  {
+    "id": 13,
+    "title": "Historical",
+    "text": "Revisiting the past",
+    "date": "2023-04-27",
+    "image": ""
+  },
+  {
+    "id": 14,
+    "title": "Romance",
+    "text": "Falling in love",
+    "date": "2023-04-28",
+    "image": ""
+  },
+  {
+    "id": 15,
+    "title": "Music",
+    "text": "Enjoying musical performances",
+    "date": "2023-04-29",
+    "image": ""
+  }
+]
